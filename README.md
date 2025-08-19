@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 🔹 Intro
-I’m a Security Researcher ranked **Top #6 all-time on CodeHawks** and part of Cyfrin’s **Eagles Program**. I’ve achieved 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, stablecoins, lending, perps, NFTs, rollups, and liquid staking**.  
+I’m a Senior Security Researcher with **15 years of software engineering experience**, ranked **Top #6 all-time on CodeHawks**, and conducting private audits as part of Cyfrin’s **Eagles Program**. I’ve earned 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, stablecoins, lending, perps, NFTs, and L2 rollups**.  
 
 ---
 
