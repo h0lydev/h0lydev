@@ -25,6 +25,7 @@ I’m a Security Researcher ranked **Top #6 all-time on CodeHawks** and part of 
 | IDEX                 | Perpetuals on XCHAIN      | Immunefi   | #5      | [🔗](https://immunefi.com/audit-competition/boost-idex/information/?utm_source=explore_results) |
 | Spectra Finance      | Interest Rate Derivatives | Immunefi   | #6      | [🔗](https://immunefi.com/audit-competition/audit-comp-spectra-finance/leaderboard/#top) |
 | Flare                | L1 EVM for Data           | Immunefi   | #7      | [🔗](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) |
+| Plume Network      | RWA                  | Immunefi    | ⏳              | [🔗](https://immunefi.com/audit-competition/plume-network-attackathon/information/?utm_source=explore_results) |
 
 ---
 
