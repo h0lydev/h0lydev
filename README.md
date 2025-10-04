@@ -3,7 +3,8 @@
 ## 🔹 Intro
 I’m a Senior Security Researcher with **15 years of software engineering experience**, ranked **Top #6 all-time on CodeHawks**, and conducting private audits as part of Cyfrin’s **Eagles Program**. I’ve earned 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, stablecoins, lending, perps, NFTs, and L2 rollups**.  
 
----
+## 🎥 Media
+[How to make it in audit contests](https://www.youtube.com/watch?v=pspkihUDAsY)
 
 ## 📬 Contact
 - **X:** [@HolyDevoti0n](https://x.com/HolyDevoti0n)  
