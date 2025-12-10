@@ -20,13 +20,13 @@ I’m a Senior Security Researcher with **15 years of software engineering exper
 | Beanstalk            | Fiat Stablecoin           | CodeHawks  | 🥇       | [🔗](https://codehawks.cyfrin.io/c/2024-02-Beanstalk-1/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Lombard              | Yield-Bearing for BTC     | Immunefi   | 🥈       | [🔗](https://immunefi.com/audit-competition/audit-comp-lombard/leaderboard/#top) |
 | eBTC                 | Staked BTC on Ethereum    | Immunefi   | 🥉       | [🔗](https://immunefi.com/audit-competition/ebtc-boost/leaderboard/#top) |
+| Plume Network        | RWA                       | Immunefi   | 🥉       | [🔗](https://immunefi.com/audit-competition/plume-network-attackathon/information/?utm_source=explore_results) |
 | Beanstalk Pt.2       | Fiat Stablecoin           | CodeHawks  | #4      | [🔗](https://codehawks.cyfrin.io/c/2024-04-beanstalk-2/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Beanstalk Finale     | Fiat Stablecoin           | CodeHawks  | #4      | [🔗](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Folks Liquid Staking | Staking for Algorand      | Immunefi   | #5      | [🔗](https://immunefi.com/audit-competition/folks-finance-liquid-staking-audit-competition/leaderboard/#top) |
 | IDEX                 | Perpetuals on XCHAIN      | Immunefi   | #5      | [🔗](https://immunefi.com/audit-competition/boost-idex/information/?utm_source=explore_results) |
 | Spectra Finance      | Interest Rate Derivatives | Immunefi   | #6      | [🔗](https://immunefi.com/audit-competition/audit-comp-spectra-finance/leaderboard/#top) |
 | Flare                | L1 EVM for Data           | Immunefi   | #7      | [🔗](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) |
-| Plume Network      | RWA                  | Immunefi    | ⏳              | [🔗](https://immunefi.com/audit-competition/plume-network-attackathon/information/?utm_source=explore_results) |
 
 ---
 
