@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 🔹 Intro
-I’m a Senior Security Researcher with **15 years of software engineering experience**, ranked **Top #6 all-time on CodeHawks**, and conducting private audits as part of Cyfrin’s **Eagles Program**. I’ve earned 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, stablecoins, lending, perps, NFTs, and L2 rollups**.  
+I’m a Senior Security Researcher with **15 years of software engineering experience**, ranked **Top #6 all-time on CodeHawks**, and conducting private audits as part of Cyfrin’s **Eagles Program**. I’ve earned 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, Stablecoins, Lending, Perps, Restaking, etc**.  
 
 ## 🎥 Media
 [holydevoti0n - How to make it in audit contests](https://www.youtube.com/watch?v=pspkihUDAsY)
@@ -19,8 +19,9 @@ I’m a Senior Security Researcher with **15 years of software engineering exper
 |----------------------|---------------------------|------------|---------|------|
 | Beanstalk            | Fiat Stablecoin           | CodeHawks  | 🥇       | [🔗](https://codehawks.cyfrin.io/c/2024-02-Beanstalk-1/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Lombard              | Yield-Bearing for BTC     | Immunefi   | 🥈       | [🔗](https://immunefi.com/audit-competition/audit-comp-lombard/leaderboard/#top) |
+| Flare Mitigation     | L1 EVM for Data           | Immunefi   | 🥈       | [🔗](https://immunefi.com/audit-competition/flare-fassets--mitigation-audit/leaderboard/#top) |
+| Plume Network        | RWA                       | Immunefi   | 🥈       | [🔗](https://immunefi.com/audit-competition/plume-network-attackathon/information/?utm_source=explore_results) |
 | eBTC                 | Staked BTC on Ethereum    | Immunefi   | 🥉       | [🔗](https://immunefi.com/audit-competition/ebtc-boost/leaderboard/#top) |
-| Plume Network        | RWA                       | Immunefi   | 🥉       | [🔗](https://immunefi.com/audit-competition/plume-network-attackathon/information/?utm_source=explore_results) |
 | Beanstalk Pt.2       | Fiat Stablecoin           | CodeHawks  | #4      | [🔗](https://codehawks.cyfrin.io/c/2024-04-beanstalk-2/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Beanstalk Finale     | Fiat Stablecoin           | CodeHawks  | #4      | [🔗](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Folks Liquid Staking | Staking for Algorand      | Immunefi   | #5      | [🔗](https://immunefi.com/audit-competition/folks-finance-liquid-staking-audit-competition/leaderboard/#top) |
