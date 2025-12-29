@@ -52,10 +52,13 @@ I’m a Senior Security Researcher with **15 years of software engineering exper
 
 ## 🔒 Private Audits  
 
-| Protocol   | Lang - Ecosystem | Description     | Provider | Findings  | Report |
-|------------|------------------|-----------------|----------|-----------|--------|
-| Stakelink  | EVM              | Polygon Staking | Cyfrin   | 1M / 2L   | [🔗](https://github.com/Cyfrin/cyfrin-audit-reports/blob/9684b1b947fdeee8df52aea720a3a3071206d4ec/reports_md/2025-05-19-cyfrin-stakedotlink-polygon-staking-v2.0.md) |
-| Stakelink  | EVM              | Link Migrator   | Cyfrin   | 1L        | [🔗](https://github.com/Cyfrin/cyfrin-audit-reports/blob/9684b1b947fdeee8df52aea720a3a3071206d4ec/reports_md/2025-06-04-cyfrin-stakelink-pr152-linkmigrator-v2.0.md) |
+| Protocol         | Ecosystem | Description                              | Provider | Report |
+|------------------|-----------|------------------------------------------|----------|--------|
+| Stakelink        | EVM       | Polygon Staking                          | Cyfrin   | [🔗](https://github.com/Cyfrin/cyfrin-audit-reports/blob/9684b1b947fdeee8df52aea720a3a3071206d4ec/reports_md/2025-05-19-cyfrin-stakedotlink-polygon-staking-v2.0.md) |
+| Stakelink        | EVM       | Link Migrator                            | Cyfrin   | [🔗](https://github.com/Cyfrin/cyfrin-audit-reports/blob/9684b1b947fdeee8df52aea720a3a3071206d4ec/reports_md/2025-06-04-cyfrin-stakelink-pr152-linkmigrator-v2.0.md) |
+| Hyperbeat        | EVM       | Vault Infrastructure                     | Certora  | [🔗](https://github.com/0xhyperbeat/Audits/blob/main/Vault-Infra/Certora.pdf) |
+| Comet Foundation | EVM       | Unified smart contracts for Compound V3  | Certora  | [🔗](https://github.com/woof-software/compound-multiplier) |
+| Kleros           | EVM       | On-chain Arbitration                     | Certora  | [🔗](https://github.com/kleros/kleros-v2) |
 
 ---
 
@@ -66,3 +69,11 @@ I’m a Senior Security Researcher with **15 years of software engineering exper
 | Beanstalk | Immunefi  | Medium   | $5,000  | [🔗](https://community.bean.money/bug-reports/bic-notes/report-35860) |
 
 ---
+
+## ⚖️ Judging  
+
+| Contest               | Platform  | Link |
+|-----------------------|-----------|------|
+| Beanstalk: The Finale | CodeHawks | [🔗](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=judging&page=1) |
+| Beanstalk Part 3      | CodeHawks | [🔗](https://codehawks.cyfrin.io/c/2024-05-Beanstalk-3/results?lt=judging&page=1) |
+
