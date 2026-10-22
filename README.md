@@ -9,7 +9,7 @@ I'm a Security Researcher currently #6 all-time on CodeHawks, with 🥇🥈🥉 
 |-------------|---------------|
 | Solidity    | EVM           |
 | Move        | Aptos & Sui   |
-| Rust        | NEAR & DLTs   |
+| Rust        | NEAR, Stellar & DLTs   |
 | Go          | DLTs          |
 | Clarity     | Stacks        |
 
