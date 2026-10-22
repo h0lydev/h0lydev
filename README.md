@@ -1,7 +1,17 @@
 # Portfolio
 
 ## 🔹 Intro
-I’m a Senior Security Researcher with **15 years of software engineering experience**, ranked **Top #6 all-time on CodeHawks**, and conducting private audits as part of Cyfrin’s **Eagles Program**. I’ve earned 🥇/🥈/🥉 results in top contests and have strong experience auditing **LSTs, AMMs, Stablecoins, Lending, Perps, Restaking, etc**.  
+I'm a Security Researcher currently #6 all-time on CodeHawks, with 🥇🥈🥉 finishes in major audit contests and multiple bug bounty findings. I've done private audits with Certora and Cyfrin. I worked as a Software Engineer at different startups for 15+ years before jumping into web3. 
+
+## Experience
+
+| Language    | Ecosystem     |
+|-------------|---------------|
+| Solidity    | EVM           |
+| Move        | Aptos & Sui   |
+| Rust        | NEAR & DLTs   |
+| Go          | DLTs          |
+| Clarity     | Stacks        |
 
 ## 🎥 Media
 [holydevoti0n - How to make it in audit contests](https://www.youtube.com/watch?v=pspkihUDAsY)
@@ -62,12 +72,14 @@ I’m a Senior Security Researcher with **15 years of software engineering exper
 
 ---
 
-## 🛡️ Bug Bounties  
+## 🛡️ Bug Bounties
 
-| Project   | Platform  | Severity | Reward  | Link |
-|-----------|-----------|----------|---------|------|
-| Beanstalk | Immunefi  | Medium   | $5,000  | [🔗](https://community.bean.money/bug-reports/bic-notes/report-35860) |
-
+| Project   | Platform | Severity | Link                                                                 |
+|-----------|----------|----------|----------------------------------------------------------------------|
+| Beanstalk | Immunefi | High     | [🔗](https://community.bean.money/bug-reports/bic-notes/report-35860) |
+| Private - Aptos   | Immunefi | Medium   | [🔗](https://immunefi.com/profile/holydevoti0n/)                     |
+| Private - DLT/Go   | Immunefi | Low      | [🔗](https://immunefi.com/profile/holydevoti0n/)                     |
+| Private - Move   | Immunefi | Low      | [🔗](https://immunefi.com/profile/holydevoti0n/)                     |
 ---
 
 ## ⚖️ Judging  
